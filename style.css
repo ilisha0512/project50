@@ -1,0 +1,38 @@
+.grid{
+    background-color: blue;
+}
+
+h1{
+   color: cyan;
+   font-family: cursive;
+   text-align: center;
+   background-color: black;
+}
+
+h2, p{
+    color: yellow;
+    font-family: cursive;
+    text-align: left;
+    background-color: blue;
+}
+
+           
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}   
+
+.menu{
+    background-color: black;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.full{
+    background-color: blue;
+}
